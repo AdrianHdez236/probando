@@ -1,2 +1,2 @@
 # probando
-getting started on GitHub
+getting started on GitHub primera edición 
